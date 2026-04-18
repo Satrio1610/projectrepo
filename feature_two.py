@@ -1,3 +1,3 @@
-def multiplyByTwo(n): 
-	return n*2
+def multiplyByThree(n): 
+	return n*3
 
