@@ -1,3 +1,4 @@
-New repository for assignment 2
+New repository for assignment 2.
 
-LAST UPDATED IN FEATUREX BRANCH
+LAST UPDATED IN FEATUREX BRANCH.
+
